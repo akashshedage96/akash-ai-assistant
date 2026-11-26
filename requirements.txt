@@ -1,0 +1,15 @@
+
+azure-storage-blob
+azure-search-documents
+langchain-community
+langchain-openai
+langchain-text-splitters
+python-dotenv
+pypdf
+pandas
+openpyxl
+sqlalchemy
+pyodbc
+docx2txt
+xlrd
+reportlab
